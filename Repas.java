@@ -13,10 +13,6 @@ public class Repas{
 	}
 
 	public void setNumero(int numero) {
-
-		this.nuemro = numero ; 
-		}
-
 		this.numero = numero ; 
 	}
 
